@@ -31,6 +31,7 @@ Entrada | Saida
 `a\nA\nTeste\n` | `2\n` (operando em três threads)
 
 
+
 ## Instruções adicionais
 
 1. Vá diretamente ao conjunto de testes para verificar como tratar casos
