@@ -1,4 +1,4 @@
-# Contando letras A usando multiprocessos
+# Contando letras A usando multithreads
 
 Esta tarefa consiste em receber um texto na entrada e contar quantas letras `a`
 ou `A` (o sistema é case-insensitive!) existem nessa entrada. Porém, trata-se de
