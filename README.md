@@ -15,6 +15,8 @@ uma thread independente.
 executar em paralelo.
 1. O programa deverá assumir um **número máximo de threads paralelas** igual a
 `4`.
+1. O programa deve garantir que todas as threads encerram *antes* do fim do
+   programa principal.
 
 Soluções que não contemplem esses três requisitos não serão aceitas. Eles serão
 verificados manualmente, caso a caso.
